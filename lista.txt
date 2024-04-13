@@ -1,0 +1,4 @@
+Trocar a cor do fundo da div
+cor das letras
+background do body
+div e imagens arredondadas
